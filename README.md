@@ -16,6 +16,8 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ![notetaker](https://user-images.githubusercontent.com/72281065/102158357-87aba680-3e3e-11eb-814a-45064a286536.JPG)
 
+GitHub respoistory location: https://github.com/DaniCutler/notetaker
+
 
 
 This is my second time trying this app again. My grader from previously gave me a few heads up on what they were looking for. Along with them and some of my classmates I was able to finally get it up and running. 
